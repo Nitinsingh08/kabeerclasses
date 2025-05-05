@@ -1,0 +1,296 @@
+/* font property for heading and headlines  -  font-family: 'Source Serif 4', serif; */
+/* font property for paragraph and small text  -  font-family: 'Lato', sans-serif;
+} */
+/* FONT-PROPERTIES */
+h1,
+h2,
+h3,
+h4,
+strong,
+.physics,
+span {
+  font-family: "Source Serif 4", serif;
+}
+
+p,
+h5,
+a,
+.btn {
+  font-family: "Lato", sans-serif;
+}
+
+.navy-blue {
+  color: #07142c;
+}
+.para-color {
+  color: #7d7d7d;
+}
+.form-color {
+  color : #574E4E"
+}
+.font-weight-400 {
+  font-weight: 400;
+}
+.font-weight-500 {
+  font-weight: 500;
+}
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.font-weight-700 {
+  font-weight: 700;
+}
+
+.whatsapp-chat {
+  position: fixed;
+  bottom: 12px;
+  right: 12px;
+  z-index: 2;
+}
+/* NAVIGATION-BAR */
+.nav-link:hover {
+  text-decoration: none;
+}
+.btn {
+  border-radius: 4.5px;
+}
+nav {
+  border-bottom: 3px solid #e7e6e6;
+}
+.nav-link,
+.nav-link:hover {
+  color: #1865f2;
+}
+nav h5 {
+  margin-bottom: 0px;
+  padding-top: 2px;
+}
+
+/* HOME-PAGE */
+
+/* FEATURE-SECTION */
+
+
+.feature-section p {
+  color: #7d7d7d;
+}
+.mobile-illustration {
+  display: none;
+}
+
+@media only screen and (max-width: 480px) {
+  .desktop-illustration {
+    display: none;
+  }
+  .mobile-illustration {
+    display: block;
+  }
+  .home-page h1,
+  .home-page p {
+    text-align: center;
+  }
+}
+/* LEARNING PATH SECTION */
+
+.accordion-section {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.accordion-section a {
+  text-decoration: none;
+}
+.accordion-section a:hover {
+  text-decoration: underline;
+}
+.accordion-section .accordion-row {
+  border-radius: 5px;
+  box-shadow: 14px 7px 25px rgba(0, 0, 0, 0.1);
+  background-color: rgba(24, 101, 242, 0.2);
+}
+.border-bottom {
+  border-bottom: solid 1px #313030 !important;
+}
+.faq {
+  max-width: 700px;
+}
+
+.question {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.arrow-icon {
+  display: flex;
+  justify-content: end;
+}
+.answer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+}
+
+.faq.active .answer {
+  max-height: 300px;
+}
+
+.faq.active .question .arrow-icon {
+  transform: rotate(180deg);
+}
+
+.question .arrow-icon {
+  transition: transform 0.3s ease-in;
+}
+
+.blue-icon {
+  box-sizing: inherit;
+}
+
+@media only screen and (max-width: 768px) {
+  .question h5 {
+    font-size: 18px;
+  }
+  .accordion-row a {
+    font-size: 12px;
+  }
+  .accordion-section .accordion-row {
+    box-shadow: none;
+  }
+  .border-bottom {
+    border-bottom: none !important;
+  }
+}
+
+/* FORM - SECTION */
+
+label {
+  font-size: 15px;
+  color: #574e4e;
+  margin-bottom: 50px;
+}
+
+input::placeholder,
+textarea::placeholder {
+  font-size: 14px;
+}
+
+.form-control {
+  border: 2px solid #d6d4d4;
+}
+.form-control:focus {
+  border: 2px solid #1865f2;
+  box-shadow: none;
+}
+
+@media only screen and (max-width: 480px) {
+  .form-illustration-coloumn {
+    display: none;
+  }
+}
+/* FOOTER-SECTION START */
+.footer-section {
+  background: var(--Footer-color, #07142c);
+}
+
+.footer-content {
+  color: #8295ba;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 135%;
+}
+.outer-row {
+  padding-top: 35px;
+}
+li {
+  list-style-type: none;
+}
+li a {
+  text-decoration: none;
+  color: #79849a;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+li a:hover {
+  text-decoration: underline;
+  color: #79849a;
+}
+
+.footer-section h6 {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.lower-footer-section {
+  border-top: 1.5px solid #7d7d7d;
+}
+.lower-footer-section p {
+  color: #79849a;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.footer-section i {
+  color: #8295ba;
+}
+
+.footer-section svg:hover {
+  color: #c8d8f6;
+}
+
+/* LEARNING PATH PAGE */
+[data-tab-content] {
+  display: none;
+}
+
+.activ[data-tab-content] {
+  display: block;
+}
+.chapter-button {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  
+}
+.chapter-button:focus {
+  border-left: 4px solid #1865f2 !important;
+  background-color: rgba(24, 101, 242, 0.2);
+
+}
+
+.chapter-button:focus strong {
+  color: #07142c;
+}
+
+.tabs {
+  width: 380px; 
+  overflow-y: auto;
+  height: 100vh;
+}
+.lecture-container {
+  width: 900px;
+}
+@media only screen and (max-width:1024px) {
+.lecture-container {
+  width: 550px;
+}
+.pdf-download-btn {
+  font-size: 11px;
+}
+}
+
+@media only screen and (max-width:469px) {
+  .lecture-container {
+    width: 310px;
+  }
+
+  iframe {
+    width: 290px;
+  }
+}
+

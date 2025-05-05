@@ -1,0 +1,130 @@
+<%- include("partials/header") %>
+<div class="container mx-1">
+  <div class="row justify-content-start">
+    <div
+      class="tabs col-12 col-md-6 col-xl-6 col-lg-6 d-flex flex-column align-items-stretch flex-shrink-0 bg-white"
+    >
+      <a
+        href=""
+        class="d-flex align-items-center flex-shrink-0 p-3 link-dark text-decoration-none border-bottom"
+      >
+        <img
+          height="36px"
+          width="36px"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEuElEQVR4nO1dz4scRRTukyhRNFmy79Xu7AwiIuxFRYSwcertrgTjDwRBRBBN1u0KeM7BRPHk2fXkQRQTvLv55X/gSUW8aIiBJAcFFdlkpzegl6XC2zYQMt2T2dmtfjXd74MPhlqa6ve+qlevanZeJYlCoVAoFAqFQqFQKBQKhUKxTbTbz+2FKVpCtGcB7SU09iYa8vWgvck2AdozbCPbGs0AabUOPDBp7Ado7Lq8o6gqQdbB0MlOh+4Xdf7EzNwUGPpB3iEkQkD7szEH2yLOn56mFqD9Q9oJKC/C763W4nTlYQeQfpI2HiMhR4FKwxEifSRtNEZGMHSiEue3Wgf2oaFe6YtwpgA0D3BoT1ITABzaA2AXEOn8ALtvdDr0SPiX4VSzdBTY95OaY3Ir4yuZCdg9EvwFeIQXd27PJg0BGnuhJAx9E7xzQPqtsHOg+aQhAA5HxWHoUvDO0diNos7376cHk4ZgYmLuoeIwZDeCd14W/5KGAaX8sNOOJ49tPA9p9jWm2TVIe/+hy/xYctwEaC2v78M0+1bccS6sAJhm59rvrYc7rENDmwUdb97L+eB6F8Wd5ioQwGUe0t6vwURApMv9KShdHvhMnUa+u7cAW0yzc0EEgCl6865ZsMltg2L+SAamax4Prnhsv5yTP3NbqOd2WwCeCcsbYVJzxK5FpC9zdu1AwXjBHcXAuU/6jeO2UM8FEABddiqRBmc7IxnYfqXfOG4L9VwYAa5I+z8ZOdU0Qxm4e88FeD+2Xdr/SeAR5mMWgCntfxVAGjoDhKECCEMFEIYKsMuYnZ29D4xdAaTrWzR2hduGFuDOnaqhODjKjlkqCwK0n97dKbcNLUDRTtVEwu3smOUEoLV+AWhtaAGKdqomEm5nxywlQFnHKgCNiQAagoQF0EVYWAA9C9oZVIBszBdhnQE7gwqQ6QzAJn8foDMgUwFQZ4Auwji2IUg3YjuDHkVk+UCaOdw/ELkt+hlQl9PQZz/uf57bVACqRoClvz0+86HHqYWc/JnbohegLqeh7n+++0/Okr/HJ0BdFmE3HOMToC5nQU4F8CqAzgCvIchpCNI1wOki7HUR1izI1ysNbUf+E6Xap6Fzkf9IL133SJ97fOyNnPyZ22ojQBr5z1S7n/X7gdtqI4CLnJ1X+/3AbSpAVo0AQx556AxwKoB8uHA6A+Qd5moTgopLlnEZr8Yswkf/Kvle4cXwApQX7bMLjRHgte+KBXj8rSoEKCtbSecbI8BTx4sFePpkBQIMKNzKRU1rL8D8F+Xx//CZ8ALkpYsH3RVgLwB0F2+XsRR3mNsF8n87cNh58vjg75WX/gwvAIMvLygXoKFcPF0oXhABuFQ7GPujuNEmEs46j8tr1QnA4EsL+PICceONMB993eM71wqdD673bxL6ChM09L24E4wQn1jy+PaVQetH+JJleTiiE426xGfmJY+Lp0rDzh38Kqn0Giugo4C0CoYulu2Yx5IzL+SbLM7zOdUsyHZKSEkM4CKm4qmkq5bgeqtJLOAyvlzOV9opWBl7v3SO3Ah/ncl2RWjCTADXW9177PrDSazgcr6QZqfRZVfHunz9bYfnNlzlKrnRxHyFQqFQKBQKhUKRxIxbfbSWk0h3faUAAAAASUVORK5CYII="
+        />
+        <span class="display-5 fs-5 fw-semibold ps-1 navy-blue"
+          >List of Chapters</span
+        >
+      </a>
+      <div
+        class="tabs-sidebar list-group list-group-flush border-bottom scrollarea"
+      >
+        <!-- <a
+          data-for-tab="1"
+          href=""
+          class="tabs-button list-group-item list-group-item-action py-3 lh-tight"
+          aria-current="true"
+        >
+          <div class="d-flex w-100 align-items-center justify-content-between">
+            <strong class="mb-1">This is the name of the chapter </strong>
+
+            <small>Wed</small>
+          </div>
+          <div class="col-10 mb-1 small">
+            Some placeholder content in a paragraph below the heading and date.
+          </div>
+        </a> -->
+
+        <% for( i = 0; i < eval(link).length; i++) { %>
+        <button
+          data-tab-target="#<%= eval(link)[i].ChapterId %>"
+          class="chapter-button list-group-item list-group-item-action py-3 lh-tight"
+        >
+          <div class="d-flex w-100 align-items-center justify-content-between">
+            <strong class="mb-1 font-weight-600"
+              ><%= eval(link)[i].NameOfChapter %></strong
+            >
+          </div>
+          <div class="col-12 mb-1 small">
+            <p>Some placeholder content in a paragraph below the heading.</p>
+          </div>
+        </button>
+        <% } %>
+      </div>
+    </div>
+
+    <div class="col-12 col-md-6 col-xl-6 col-lg-6 gx-5">
+      <!-- <nav aria-label="breadcrumb" class="nav-breadcrumb border-0 pt-4">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Home</a></li>
+          <li class="breadcrumb-item">Class 11th</li>
+        </ol>
+      </nav> -->
+      <% for( i = 0; i < eval(link).length;i++) { %>
+      <div
+        data-tab-content
+        id="<%= eval(link)[i].ChapterId %>"
+        class="card lecture-container flex-stretch mt-3 align-self-center"
+      >
+        <div class="card-header">
+          <h4 class="text-start navy-blue font-weight-600">
+            <%= eval(link)[i].NameOfChapter %>
+          </h4>
+        </div>
+        <div class="card-body d-flex text-start">
+          <iframe
+            width="870px"
+            height="315px"
+            src="<%= eval(link)[i].Lecture %>"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="card-footer pt-4">
+          <h5 class="font-weight-600">Practice Sheet</h5>
+          <div class="row">
+            <p class="col-9">
+              Download these practice sheets and cement the knowledge in your
+              mind
+            </p>
+            <form class="float-end col-3 text-end" action="/download-file">
+              <button class="pdf-download-btn btn btn-primary" type="submit">
+                Download pdf
+              </button>
+            </form>
+          </div>
+
+          <h5 class="font-weight-600">Hand written notes</h5>
+          <div class="row">
+            <p class="col-9">
+              Download these hand written notes from this chapter
+            </p>
+            <form class="float-end col-3 text-end" action="/download-file">
+              <button class="pdf-download-btn btn btn-primary" type="submit">
+                Download pdf
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <% } %>
+    </div>
+  </div>
+</div>
+
+<!--CREATING TABS -->
+<script>
+  const tabs = document.querySelectorAll("[data-tab-target]");
+  const tabContents = document.querySelectorAll("[data-tab-content]");
+  tabs.forEach((tab) => {
+    tab.addEventListener("click", () => {
+      const target = document.querySelector(tab.dataset.tabTarget);
+      tabContents.forEach((tabContent) => tabContent.classList.remove("activ"));
+      target.classList.add("activ");
+    });
+  });
+</script>
+<%- include("partials/footer") %>

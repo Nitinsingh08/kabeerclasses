@@ -1,0 +1,682 @@
+{
+  "Class-11th": [
+    {
+      "ChapterId": "eone",
+      "NameOfChapter": "Basic maths",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "PDF file of the PracticeSheet",
+      "handWrittenNotes": "PDF file of the hand written notes"
+    },
+    {
+      "ChapterId": "etwo",
+      "NameOfChapter": "Kinematics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ethree",
+      "NameOfChapter": "Laws of motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efour",
+      "NameOfChapter": "Circular motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efive",
+      "NameOfChapter": "Work,Energy and Power",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "esix",
+      "NameOfChapter": "Center of mass",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eseven",
+      "NameOfChapter": "Collision",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eeight",
+      "NameOfChapter": "Rotational dynamics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "enine",
+      "NameOfChapter": "Gravitation",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eten",
+      "NameOfChapter": "Elasticity",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eeleven",
+      "NameOfChapter": "Fluid mechanics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "etwelve",
+      "NameOfChapter": "Surface tension",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ethirteen",
+      "NameOfChapter": "Thermal properties of matter",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efourteen",
+      "NameOfChapter": "Thermodynamics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efifteen",
+      "NameOfChapter": "Kinetic theory of gases",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "esixteen",
+      "NameOfChapter": "Simple harmonic motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eseventeen",
+      "NameOfChapter": "Waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    }
+  ],
+  "Class-12th": [
+    {
+      "ChapterId": "tone",
+      "NameOfChapter": "Electrostatics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ttwo",
+      "NameOfChapter": "Capacitance",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tthree",
+      "NameOfChapter": "Current electricity",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfour",
+      "NameOfChapter": "Moving charges and magnetism",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfive",
+      "NameOfChapter": "Electromagnetic induction",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tsix",
+      "NameOfChapter": "Alternating current",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tseven",
+      "NameOfChapter": "Electromagnetic waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "teight",
+      "NameOfChapter": "Ray optics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tnine",
+      "NameOfChapter": "Wave Optics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tten",
+      "NameOfChapter": "Dual nature of radiation and matter",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "televen",
+      "NameOfChapter": "Atoms",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ttweleve",
+      "NameOfChapter": "Nuclei",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tthirteen",
+      "NameOfChapter": "Waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfourteen",
+      "NameOfChapter": "Seminconductors",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfourteen",
+      "NameOfChapter": "Units and dimenstions",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    }
+  ],
+  "NEET-Dropper": [
+    {
+      "ChapterId": "eone",
+      "NameOfChapter": "Basic maths",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "PDF file of the PracticeSheet",
+      "handWrittenNotes": "PDF file of the hand written notes"
+    },
+    {
+      "ChapterId": "etwo",
+      "NameOfChapter": "Kinematics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ethree",
+      "NameOfChapter": "Laws of motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efour",
+      "NameOfChapter": "Circular motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efive",
+      "NameOfChapter": "Work,Energy and Power",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "esix",
+      "NameOfChapter": "Center of mass",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eseven",
+      "NameOfChapter": "Collision",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eeight",
+      "NameOfChapter": "Rotational dynamics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "enine",
+      "NameOfChapter": "Gravitation",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eten",
+      "NameOfChapter": "Elasticity",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eeleven",
+      "NameOfChapter": "Fluid mechanics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "etwelve",
+      "NameOfChapter": "Surface tension",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ethirteen",
+      "NameOfChapter": "Thermal properties of matter",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efourteen",
+      "NameOfChapter": "Thermodynamics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efifteen",
+      "NameOfChapter": "Kinetic theory of gases",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "esixteen",
+      "NameOfChapter": "Simple harmonic motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eseventeen",
+      "NameOfChapter": "Waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tone",
+      "NameOfChapter": "Electrostatics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ttwo",
+      "NameOfChapter": "Capacitance",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tthree",
+      "NameOfChapter": "Current electricity",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfour",
+      "NameOfChapter": "Moving charges and magnetism",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfive",
+      "NameOfChapter": "Electromagnetic induction",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tsix",
+      "NameOfChapter": "Alternating current",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tseven",
+      "NameOfChapter": "Electromagnetic waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "teight",
+      "NameOfChapter": "Ray optics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tnine",
+      "NameOfChapter": "Wave Optics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tten",
+      "NameOfChapter": "Dual nature of radiation and matter",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "televen",
+      "NameOfChapter": "Atoms",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ttweleve",
+      "NameOfChapter": "Nuclei",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tthirteen",
+      "NameOfChapter": "Waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfourteen",
+      "NameOfChapter": "Seminconductors",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfourteen",
+      "NameOfChapter": "Units and dimenstions",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    }
+  ],
+  "JEE-Dropper": [
+    {
+      "ChapterId": "eone",
+      "NameOfChapter": "Basic maths",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "PDF file of the PracticeSheet",
+      "handWrittenNotes": "PDF file of the hand written notes"
+    },
+    {
+      "ChapterId": "etwo",
+      "NameOfChapter": "Kinematics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ethree",
+      "NameOfChapter": "Laws of motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efour",
+      "NameOfChapter": "Circular motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efive",
+      "NameOfChapter": "Work,Energy and Power",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "esix",
+      "NameOfChapter": "Center of mass",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eseven",
+      "NameOfChapter": "Collision",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eeight",
+      "NameOfChapter": "Rotational dynamics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "enine",
+      "NameOfChapter": "Gravitation",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eten",
+      "NameOfChapter": "Elasticity",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eeleven",
+      "NameOfChapter": "Fluid mechanics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "etwelve",
+      "NameOfChapter": "Surface tension",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ethirteen",
+      "NameOfChapter": "Thermal properties of matter",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efourteen",
+      "NameOfChapter": "Thermodynamics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "efifteen",
+      "NameOfChapter": "Kinetic theory of gases",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "esixteen",
+      "NameOfChapter": "Simple harmonic motion",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "eseventeen",
+      "NameOfChapter": "Waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tone",
+      "NameOfChapter": "Electrostatics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ttwo",
+      "NameOfChapter": "Capacitance",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tthree",
+      "NameOfChapter": "Current electricity",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfour",
+      "NameOfChapter": "Moving charges and magnetism",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfive",
+      "NameOfChapter": "Electromagnetic induction",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tsix",
+      "NameOfChapter": "Alternating current",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tseven",
+      "NameOfChapter": "Electromagnetic waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "teight",
+      "NameOfChapter": "Ray optics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tnine",
+      "NameOfChapter": "Wave Optics",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tten",
+      "NameOfChapter": "Dual nature of radiation and matter",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "televen",
+      "NameOfChapter": "Atoms",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "ttweleve",
+      "NameOfChapter": "Nuclei",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tthirteen",
+      "NameOfChapter": "Waves",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfourteen",
+      "NameOfChapter": "Seminconductors",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    },
+    {
+      "ChapterId": "tfourteen",
+      "NameOfChapter": "Units and dimenstions",
+      "Lecture": "https://www.youtube.com/embed/YwWTZLOx4Wo?si=wMWD5rDc06QEek8T",
+      "PracticeSheet": "Path of the file of the PracticeSheet",
+      "handWrittenNotes": "Path of the file of the hand written notes"
+    }
+  ]
+}
